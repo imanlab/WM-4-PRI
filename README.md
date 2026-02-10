@@ -1,7 +1,7 @@
-# Title-of-the-project
+# World Model for Physical Robot Interactions
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Table of Contents (To be confirmed and updated!)
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)

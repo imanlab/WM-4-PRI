@@ -7,7 +7,7 @@ This repository contains the code and resources for the T-RO 2023 paper: **Combi
 We examine the benefits of incorporating tactile sensation into video prediction models for physical robot interactions. By proposing three multi-modal integration approaches and comparing the performance of these tactile-enhanced video prediction models, we demonstrate the potential of using both visual and tactile feedback for improved scene prediction accuracy and a better understanding of cause-effect relationships during robot interactions. We also introduce two new datasets of robot pushing using a magnetic-based tactile sensor for unsupervised learning.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/imanlab/spots_ras/master/assets/SPOTS_abstract_5.jpg" width="500">
+<img src="https://github.com/imanlab/WM-4-PRI/blob/master/assets/SPOTS_abstract_5_.jpg" width="500">
 <p/>
 
 ## Datasets
@@ -18,11 +18,11 @@ Two datasets and their descriptions can be found at:
   - [Household Objects Dataset](https://github.com/imanlab/)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/imanlab/spots_ras/master/assets/data_collection_household.jpg" width="500">
+<img src="https://github.com/imanlab/WM-4-PRI/blob/master/assets/data_collection_household.jpg" width="500">
 <p/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imanlab/spots_ras/master/assets/DatasetExampleLarge_.jpeg" width="500">
+  <img src="https://github.com/imanlab/WM-4-PRI/blob/master/assets/DatasetExampleLarge_.jpeg" width="500">
 </p>
 
 ## Requirements

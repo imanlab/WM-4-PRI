@@ -1,6 +1,7 @@
 # Simultaneous Prediction of Optical and Tactile Sensation
 
-This repository contains the code and resources for the T-RO 2023 paper: **Combining Vision and Touch for Physical Robot Interaction**.
+This repository contains the code and resources for **World Model for Physical Robot Interactions: Simultaneous1
+Visual and Tactile Predictions for Enhanced Accuracy** submitted to RAS.
 
 **Author**: Willow Mandil, Amir Ghalamzan E
 
